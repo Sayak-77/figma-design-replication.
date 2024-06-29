@@ -1,0 +1,7 @@
+.outro{
+    height: 170px;
+    width: 100%;
+    background-color: #5D3FD3;
+    display: flex;
+    justify-content: center;
+}
